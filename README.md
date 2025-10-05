@@ -28,4 +28,5 @@ Features Implemented
 Responsive Layouts: the complex UI showcase page, are fully responsive across mobile, tablet, and desktop breakpoints.
 
 NOTES:
+
 For better UX, i divided the Navbar into 3, one for desktop and this contains all the nav links, the other two for smaller screen one appear in the bottom of the screen to show the personal links, the other is triggered with the burger icon for the nav links
