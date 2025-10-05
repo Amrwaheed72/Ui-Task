@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { colors } from '../lib/constants';
 import { Heart, Minus, Plus, ShoppingCart } from 'lucide-react';
+import { colors } from '../lib/constants';
 
 const ProductDetails = () => {
     const [selectedColor, setSelectedColor] = useState(colors[1]);
